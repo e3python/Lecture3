@@ -26,9 +26,9 @@ def throw_party():
         return "You'll have to go to the store first."
 
 ## Testing the functions
-print is_a_party(20, 20)
-print is_a_party(5, 15)
-print is_a_party(5, 2)
-print is_a_party(14, 8)
+print(is_a_party(20, 20))
+print(is_a_party(5, 15))
+print(is_a_party(5, 2))
+print(is_a_party(14, 8))
 
-print throw_party()
+print(throw_party())
